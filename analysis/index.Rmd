@@ -1,0 +1,16 @@
+---
+title: "Home"
+site: workflowr::wflow_site
+output:
+  workflowr::wflow_html:
+    toc: false
+editor_options:
+  chunk_output_type: console
+---
+
+This is the website containing the codes for the paper.
+
+
+Click on this [analysis](3_gamlss_analysis.html) to see the codes for the analysis.
+
+Click on this [result](6_prediction.html) to see the codes for the results.
